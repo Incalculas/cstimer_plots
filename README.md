@@ -30,6 +30,8 @@ name the file with a simple file, this will make things easier for you
 
 save your file in the same folder as the 2 .py files
 
+(use the sampledata.txt in case you want to try the program but don't have anything on cstimer.net to test it out)
+
 **Step 3: cd ing to the folder location on the terminal or cmd**
 
 for windows its: open cmd, ctrl + r, then type cmd
