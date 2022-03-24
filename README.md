@@ -1,6 +1,6 @@
 #CSTIMER PLOTS
 
-This is a python script which uses python and gnuplot to plot your data which you can export from cstimer.net 
+This is a python script which uses python and gnuplot to plot your data which you can export from https://cstimer.net/
 
 
 (current latest version is prototype2, use that only, prototype1 has a major bug)
@@ -30,7 +30,7 @@ name the file with a simple file, this will make things easier for you
 
 save your file in the same folder as the 2 .py files
 
-(use the sampledata.txt in case you want to try the program but don't have anything on cstimer.net to test it out)
+(use the sampledata.txt in case you want to try the program but don't have anything on https://cstimer.net/ to test it out)
 
 **Step 3: cd ing to the folder location on the terminal or cmd**
 
