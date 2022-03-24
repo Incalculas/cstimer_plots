@@ -3,6 +3,9 @@
 This is a python script which uses python and gnuplot to plot your data which you can export from cstimer.net 
 
 
+(current latest version is prototype2, use that only, prototype1 has a major bug)
+
+
 **How to use:**
 
 **Step 1: downloading and installing the required softwares**
