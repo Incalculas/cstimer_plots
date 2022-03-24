@@ -44,7 +44,7 @@ Step 4: running the script
 if you are in the right location in your terminal or cmd you should be able to run the program with the following comamnd 
 
 ```
-python program.py
+python prototype2.py
 ```
 
 it will ask a series of questions and after which you should have images of the plotted graphs on the same folder.
