@@ -93,10 +93,7 @@ no point in not deleting it but leaving it as an option to not delete it
 
 **Show case video:** https://youtu.be/S20fmZVAEPk
 
-**Images from the showcase video:**
-
-**ao1**
-![ao1](https://imgur.com/a/97Ec8Kr "cstimer plots ao1")
+**Plots generated from the video:** https://imgur.com/a/97Ec8Kr
 
 created on 24.3.22
 
