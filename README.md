@@ -8,7 +8,7 @@ This is a python script which uses python and gnuplot to plot your data which yo
 
 **How to use:**
 
-**Step 1: downloading and installing the required softwares**
+**1: downloading and installing the required softwares**
 
 first you need gnuplot and python installed
 
@@ -18,7 +18,7 @@ download and install python from: https://www.python.org/
 
 (if you are a linux user you can just install from the terminal using your distribution's package manager like pacman for arch and arch based and apt for debian and debian based distros, but you probably knew that already if you are using linux)
 
-**Step 2: downloading my python script and the extract from cstimer.net**
+**2: downloading my python script and the extract from cstimer.net**
 
 download the code from here, you will need both of the .py files, download the program.zip to get both of the .py files
 
@@ -32,7 +32,7 @@ save your file in the same folder as the 2 .py files
 
 (use the sampledata.txt in case you want to try the program but don't have anything on https://cstimer.net/ to test it out)
 
-**Step 3: cd ing to the folder location on the terminal or cmd**
+**3: cd ing to the folder location on the terminal or cmd**
 
 for windows its: open cmd, ctrl + r, then type cmd
 
@@ -44,7 +44,7 @@ for example
 cd Cubing/exported\ files/
 ```
 
-**Step 4: running the script**
+**4: running the script**
 
 if you are in the right location in your terminal or cmd you should be able to run the program with the following comamnd 
 
@@ -93,3 +93,4 @@ no point in not deleting it but leaving it as an option to not delete it
 
 created on 24.3.22
 
+Show case video: https://youtu.be/S20fmZVAEPk
