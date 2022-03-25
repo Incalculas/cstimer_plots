@@ -91,8 +91,10 @@ deletes the fit.log from the data fitting done by gnuplot for the line in the pl
 no point in not deleting it but leaving it as an option to not delete it
 
 
+**Show case video:** https://youtu.be/S20fmZVAEPk
+
 created on 24.3.22
 
 edited on 25.3.22
 
-Show case video: https://youtu.be/S20fmZVAEPk
+
