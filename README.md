@@ -96,7 +96,7 @@ no point in not deleting it but leaving it as an option to not delete it
 **Images from the showcase video:**
 
 **ao1**
-<img src="https://imgur.com/a/97Ec8Kr" width="100%" height="100%">
+![ao1](https://imgur.com/a/97Ec8Kr "cstimer plots ao1")
 
 created on 24.3.22
 
