@@ -6,6 +6,10 @@ This is a python script which uses python and gnuplot to plot your data which yo
 (current latest version is prototype2, use that only, prototype1 has a major bug)
 
 
+Windows: 
+
+things simply don't work, yet to figure out why
+
 **How to use:**
 
 **1: downloading and installing the required softwares**
@@ -14,7 +18,9 @@ first you need gnuplot and python installed
 
 follow this website to install gnuplot: https://riptutorial.com/gnuplot/example/11275/installation-or-setup
 
-download and install python from: https://www.python.org/
+when installing gnuplot, enable the option to add path variable
+
+Type "python" on your command line and you will get taken to windows store to install  python
 
 (if you are a linux user you can just install from the terminal using your distribution's package manager like pacman for arch and arch based and apt for debian and debian based distros, but you probably knew that already if you are using linux)
 
